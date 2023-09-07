@@ -2,8 +2,6 @@
 
 ![https://user-images.githubusercontent.com/117419102/218729258-27f8973d-d4dd-4a09-9e0b-1f7ebd9e7e86.png](https://user-images.githubusercontent.com/117419102/218729258-27f8973d-d4dd-4a09-9e0b-1f7ebd9e7e86.png)
 
-# [👉지원하러가기](https://forms.gle/XKLKe1gtNxLWqxzj9)
-
 ## 개발하는 모험가님 안녕하세요.
 
 애즈위메이크 채용 페이지에 오신 여러분을 환영합니다. 우리는 동네 마트가 유통/물류를 더 잘할 수 있도록 제품을 개발하는 IT 플랫폼 선도 기업입니다. 우리와 함께하는 마트는 더 빠르고 더 신선한 편리미엄을 소비자에게 제공하고 있습니다.
