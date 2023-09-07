@@ -53,8 +53,8 @@
 | Category | Descriptions |
 | --- | --- |
 | 🌐 웹 프론트엔드 | Typescript, Javascript, React.js, Recoil, React-Query |
-| 👨‍💻 백엔드 | Spring, Java, Node.js, Kafka, Redis |
-| 📱 모바일 | React-Native, iOS, Swift, Android, Java, Kotlin |
+| 👨‍💻 백엔드 | Spring, Java, Kafka, Redis |
+| 📱 모바일 | iOS, Swift, Android, Java, Kotlin |
 | 💾 DBMS | PostgreSQL |
 | 🛠️시스템 인프라 | AWS, Docker, k8s, ELK, Prometheus, Grafana, GitHub Action |
 
