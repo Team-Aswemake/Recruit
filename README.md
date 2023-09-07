@@ -55,7 +55,7 @@
 | 🌐 웹 프론트엔드 | Typescript, Javascript, React.js, Recoil, React-Query |
 | 👨‍💻 백엔드 | Spring, Java, Node.js, Kafka, Redis |
 | 📱 모바일 | React-Native, iOS, Swift, Android, Java, Kotlin |
-| 💾 DBMS | MongoDB, PostgreSQL, MariaDB |
+| 💾 DBMS | PostgreSQL |
 | 🛠️시스템 인프라 | AWS, Docker, k8s, ELK, Prometheus, Grafana, GitHub Action |
 
 ## 협업 도구
@@ -146,4 +146,3 @@
 
 - 모든 신규 입사자는 3개월간의 수습 기간이 있으며, 수습 평가 결과에 따라 고용에 적합하지 않다고 판단될 경우, 수습 기간이 연장되거나 채용 취소가 될 수 있습니다.
 
-# [👉지원하러가기](https://forms.gle/XKLKe1gtNxLWqxzj9)
