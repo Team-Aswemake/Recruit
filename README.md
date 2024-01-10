@@ -54,8 +54,8 @@
 | --- | --- |
 | 🌐 웹 프론트엔드 | Typescript, Javascript, React.js, Recoil, React-Query, Styled-components |
 | 👨‍💻 백엔드 | Spring, Java, Kotlin, Redis, JPA, MyBatis |
-| 📱 iOS | Swift, Combine, UIKit, MVVM, Moya |
-| 📱 Android | Android, Java, Kotlin, MVP |
+| 📱 iOS | Swift, Combine, UIKit, MVVM, Moya, Cocoapods, Fastlane |
+| 📱 Android | Android, Kotlin, Hilt, MVVM, Clean Architecture , Kotlin DSL , Coroutine Flow |
 | 💾 DBMS | PostgreSQL |
 | 🛠️시스템 인프라 | AWS, Docker, k8s, ELK, GitHub Action, ArgoCD |
 
