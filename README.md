@@ -57,7 +57,7 @@
 | 📱 iOS | Swift, Combine, UIKit, MVVM, Moya, Cocoapods, Fastlane |
 | 📱 Android | Android, Kotlin, Hilt, MVVM, Clean Architecture , Kotlin DSL , Coroutine Flow |
 | 💾 DBMS | PostgreSQL |
-| 🛠️시스템 인프라 | AWS, Docker, k8s, ELK, GitHub Action, ArgoCD |
+| 🛠️시스템 인프라 | AWS, Docker, k8s, ELK, GitHub Action, ArgoCD, Grafana, Prometheus, Pinpoint |
 
 ## 협업 도구
 
