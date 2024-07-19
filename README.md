@@ -1,6 +1,6 @@
 # 애즈위메이크 모험가 모집
 
-![https://user-images.githubusercontent.com/117419102/218729258-27f8973d-d4dd-4a09-9e0b-1f7ebd9e7e86.png](https://user-images.githubusercontent.com/117419102/218729258-27f8973d-d4dd-4a09-9e0b-1f7ebd9e7e86.png)
+![240719 채용페이지](https://github.com/user-attachments/assets/8de7fa4f-eda1-4775-96d6-8a8f06eaedf7)
 
 ## 개발하는 모험가님 안녕하세요.
 
