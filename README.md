@@ -54,7 +54,7 @@
 
 | Category | Descriptions |
 | --- | --- |
-| 🌐 웹 프론트엔드 | Typescript, Javascript, React.js, Recoil, React-Query, Styled-components |
+| 🌐 웹 프론트엔드 | Typescript, Javascript, React.js, Recoil, Tanstack-Query, Styled-components, Emotion |
 | 👨‍💻 백엔드 | Spring, Java, Kotlin, PostgreSQL, Redis, JPA, MyBatis |
 | 📱 iOS | Swift, Combine, UIKit, SwiftUI, MVVM, Moya, Cocoapods, Fastlane |
 | 📱 Android | Android, Kotlin, Hilt, MVVM, MVI, Clean Architecture , Kotlin DSL , Coroutine Flow, Compose |
